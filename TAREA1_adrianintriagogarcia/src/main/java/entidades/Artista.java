@@ -6,7 +6,7 @@ import java.util.List;
 
 public class Artista extends Persona implements Serializable{
 	private static final long serialVersionUID=1L;
-	
+// clase que gestiona los artistas
 	
 	private String apodo;
 	private List<Especialidad> especialidades;
@@ -41,3 +41,4 @@ public class Artista extends Persona implements Serializable{
 		}
 		
 		}
+
