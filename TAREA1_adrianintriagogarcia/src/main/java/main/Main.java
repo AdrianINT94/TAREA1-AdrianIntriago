@@ -101,7 +101,7 @@ public class Main {
 				System.out.println("Usuario o contraseña incorrectos");
 			}
 	}
-		
+		//Metodo para Registrar nuevo Usuario en el menu con sus detalles nombre,contraseña ,nacionalidad etc
 		private static void registrarNuevoUsuario() {
 			System.out.println("\n=====REGISTRO NUEVO USUARIO ===");
 			System.out.println("Nombre de usuario ");
@@ -130,6 +130,7 @@ public class Main {
 				
 			}
 		}
+		 // Metodo para crear Espectaculos nuevos 
 		
 			private static void crearNuevoEspectaculo() {
 				System.out.println("\n==== CREACION DE NUEVO ESPECTACULO =====");
@@ -158,4 +159,5 @@ public class Main {
 			}
 		
 	}
+
 
